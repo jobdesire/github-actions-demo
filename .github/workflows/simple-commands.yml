@@ -8,8 +8,8 @@ jobs:
       - name: Echo Hello
         run: echo "Hello, World!"
 
-      - name: Shox Date
-        run: Date
+      - name: Show Date
+        run: date
 
       - name: List Files
-        run: ls -la 
+        run: ls -la
